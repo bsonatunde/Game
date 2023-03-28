@@ -29,7 +29,7 @@ class InputManager{
                 break;
 
                  }
-d
+
     }
     bindKeys(){
          document.addEventListener('keydown', this.handleKey)
